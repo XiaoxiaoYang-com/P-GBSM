@@ -41,7 +41,7 @@ All results are available in the `./bp_slam_3D/all_results` directory.
 To reproduce the Cumulative Distribution Function (CDF) plots shown in Figure 7, run:CDF_all_3_Fig7.m and CDF_all_4_Fig7.m
 <img src="https://raw.githubusercontent.com/XiaoxiaoYang-com/P-GBSM/main/bp_slam_3D/all_results/3base_CDF_with_markers.jpg" width = 40%>
 #### 3.2 Quantitative performance metrics
-To generate the quantitative performance metrics corresponding to Table 3, run: CDF_all_3_tab_3.m and CDF_all_4_tab_3.m
+To generate the quantitative performance metrics corresponding to Table III, run: CDF_all_3_tab_3.m and CDF_all_4_tab_3.m
 
 
 | Method   | MAE   | RMSE  | STD   | MAX   | 1-σ   | 2-σ   |
