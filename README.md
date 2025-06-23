@@ -1,3 +1,6 @@
+# A Physics-Enhanced Stochastic Channel Model for 6G
+
+
 ### Project Overview
 
 This project follows a two-step approach:
