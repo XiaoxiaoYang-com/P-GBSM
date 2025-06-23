@@ -39,7 +39,11 @@ All results are available in the `./bp_slam_3D/all_results` directory.
 
 #### 3.1 Cumulative Distribution Function (CDF)
 To reproduce the Cumulative Distribution Function (CDF) plots shown in Fig. 7, run:CDF_all_3_Fig7.m and CDF_all_4_Fig7.m
+
+
 <img src="https://raw.githubusercontent.com/XiaoxiaoYang-com/P-GBSM/main/bp_slam_3D/all_results/3base_CDF_with_markers.jpg" width = 40%>
+
+
 #### 3.2 Quantitative performance metrics
 To generate the quantitative performance metrics corresponding to Table III, run: CDF_all_3_tab_3.m and CDF_all_4_tab_3.m
 
@@ -65,6 +69,8 @@ To generate the quantitative performance metrics corresponding to Table III, run
 
 #### 3.3 3D trajectories and qualitative
 To visualize the 3D trajectories and qualitative bp_slam results, run: guiji_all_3_Qualitative_3D.m and guiji_all_4_Qualitative_3D.m
+
+
 <img src="https://github.com/XiaoxiaoYang-com/P-GBSM/blob/main/bp_slam_3D/all_results/mgbsm_qua_guiji_3_3.jpg" width = 40%>
 
 #### 3.4 Agent position RMSE
