@@ -30,7 +30,7 @@ Please download the BP-SLAM localization results from the link below and place t
 
 ### 2. Follow-up Work
 
-Once the review is complete, updates to the **P-GBSM**, **QuaDRiGa_2023.12.13_v2.8.1**, and **bp_slam_3D** codes will be carried out in sequence.
+Once the review is complete, updates to the **P-GBSM**, and **bp_slam_3D** codes will be carried out in sequence.
 
 ---
 
